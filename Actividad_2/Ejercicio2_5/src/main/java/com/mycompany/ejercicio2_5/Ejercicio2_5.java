@@ -26,7 +26,7 @@ public class Ejercicio2_5 {
         //Atributo que define la tasa de interes
         float tasaInteres;
         
-            //Pedimos al usuario que ingrese los valores iniciales de cada atributo
+        //Pedimos al usuario que ingrese los valores iniciales de cada atributo
         Scanner datos_entrada_teclado = new Scanner(System.in);
         
         System.out.println ("Ingrese los nombres del titular : ");
